@@ -1,0 +1,227 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Concurrent;
+using System.Collections.Frozen;
+using System.Collections.Generic;
+using System.Collections.Immutable;
+using System.Collections.ObjectModel;
+using System.Collections.Specialized;
+using System.Data;
+using System.Data.Common;
+using System.Data.SqlTypes;
+using System.Dynamic;
+using System.Formats;
+using System.Formats.Asn1;
+using System.Formats.Tar;
+using System.Globalization;
+using System.IO;
+using System.IO.Compression;
+using System.IO.Enumeration;
+using System.IO.IsolatedStorage;
+using System.IO.MemoryMappedFiles;
+using System.IO.Pipelines;
+using System.IO.Pipes;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Net;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Net.Http.Json;
+using System.Net.Cache;
+using System.Net.NetworkInformation;
+using System.Net.Quic;
+using System.Net.Security;
+using System.Net.ServerSentEvents;
+using System.Net.Sockets;
+using System.Net.WebSockets;
+using System.Runtime;
+using System.Runtime.InteropServices;
+using System.Runtime.Intrinsics;
+using System.Runtime.Loader;
+using System.Runtime.Remoting;
+using System.Runtime.Serialization;
+using System.Runtime.Versioning;
+using System.Security;
+using System.Security.Cryptography;
+using System.Security.Cryptography.X509Certificates;
+using System.Security.Principal;
+using System.Text;
+using System.Text.Encodings;
+using System.Text.Encodings.Web;
+using System.Text.Json;
+using System.Text.Json.Nodes;
+using System.Text.Json.Schema;
+using System.Text.Json.Serialization;
+using System.Text.RegularExpressions;
+using System.Threading;
+using System.Threading.Channels;
+using System.Threading.Tasks;
+using System.Threading.Tasks.Dataflow;
+using System.Threading.Tasks.Sources;
+using Microsoft.Extensions;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration.Binder;
+using Microsoft.Extensions.Configuration.CommandLine;
+using Microsoft.Extensions.Configuration.EnvironmentVariables;
+using Microsoft.Extensions.Configuration.Json;
+using Microsoft.Extensions.Configuration.Memory;
+using Microsoft.Extensions.Configuration.UserSecrets;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection.Extensions;
+using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Hosting.Internal;
+using Microsoft.Extensions.Hosting.Systemd;
+using Microsoft.Extensions.Hosting.WindowsServices;
+using Microsoft.Extensions.Http;
+using Microsoft.Extensions.Http.Diagnostics;
+using Microsoft.Extensions.Http.Latency;
+using Microsoft.Extensions.Http.Logging;
+using Microsoft.Extensions.Http.Resilience;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging.Abstractions;
+using Microsoft.Extensions.Logging.Configuration;
+using Microsoft.Extensions.Logging.Console;
+using Microsoft.Extensions.Logging.Debug;
+using Microsoft.Extensions.Logging.EventLog;
+using Microsoft.Extensions.Logging.EventSource;
+using Microsoft.Extensions.Logging.TraceSource;
+using Microsoft.Extensions.AmbientMetadata;
+using Microsoft.Extensions.AI;
+using Microsoft.Extensions.Caching;
+using Microsoft.Extensions.Caching.Distributed;
+using Microsoft.Extensions.Caching.Hybrid;
+using Microsoft.Extensions.Caching.Memory;
+using Microsoft.Extensions.ObjectPool;
+using Microsoft.Extensions.Options;
+using Microsoft.Extensions.Primitives;
+using Microsoft.Extensions.VectorData;
+using Microsoft.Extensions.VectorData.ProviderServices;
+using Microsoft.Extensions.Internal;
+using Microsoft.Agents;
+using Microsoft.Agents.AI;
+using Microsoft.SemanticKernel;
+using Microsoft.SemanticKernel.Agents;
+using Microsoft.SemanticKernel.ChatCompletion;
+using Microsoft.SemanticKernel.Data;
+using Microsoft.SemanticKernel.Embeddings;
+using Microsoft.SemanticKernel.Functions;
+using Microsoft.SemanticKernel.Memory;
+using Microsoft.SemanticKernel.Services;
+using Microsoft.SemanticKernel.Text;
+using Microsoft.SemanticKernel.TextGeneration;
+using Microsoft.SemanticKernel.TextToAudio;
+using Microsoft.SemanticKernel.TextToImage;
+using Org.BouncyCastle;
+using Org.BouncyCastle.Asn1;
+using Org.BouncyCastle.Cms;
+using Org.BouncyCastle.Crypto;
+using Org.BouncyCastle.Crypto.Operators;
+using Org.BouncyCastle.Crypto.Agreement;
+using Org.BouncyCastle.Crypto.Digests;
+using Org.BouncyCastle.Crypto.EC;
+using Org.BouncyCastle.Crypto.Encodings;
+using Org.BouncyCastle.Crypto.Engines;
+using Org.BouncyCastle.Crypto.Fpe;
+using Org.BouncyCastle.Crypto.Generators;
+using Org.BouncyCastle.Crypto.IO;
+using Org.BouncyCastle.Crypto.Kems;
+using Org.BouncyCastle.Crypto.Macs;
+using Org.BouncyCastle.Crypto.Modes;
+using Org.BouncyCastle.Crypto.Paddings;
+using Org.BouncyCastle.Crypto.Parameters;
+using Org.BouncyCastle.Crypto.Prng;
+using Org.BouncyCastle.Crypto.Signers;
+using Org.BouncyCastle.Crypto.Tls;
+using Org.BouncyCastle.Crypto.Utilities;
+using Org.BouncyCastle.Math.EC;
+using Org.BouncyCastle.Math.Field;
+using Org.BouncyCastle.Ocsp;
+using Org.BouncyCastle.OpenSsl;
+using Org.BouncyCastle.Operators;
+using Org.BouncyCastle.Pkcs;
+using Org.BouncyCastle.Pkix;
+using Org.BouncyCastle.Pqc;
+using Org.BouncyCastle.Pqc.Asn1;
+using Org.BouncyCastle.Pqc.Crypto;
+using Org.BouncyCastle.Security;
+using Org.BouncyCastle.Security.Certificates;
+using Org.BouncyCastle.Tls;
+using Org.BouncyCastle.Tls.Crypto;
+using Org.BouncyCastle.Tsp;
+using Org.BouncyCastle.Utilities;
+using Org.BouncyCastle.X509;
+using Org.BouncyCastle.X509.Extension;
+using Org.BouncyCastle.X509.Store;
+using Org.BouncyCastle.Asn1.Mozilla;
+
+namespace CertificateManager
+{
+    public sealed class ResilientHttpClient(HttpClient httpClient, ILogger<ResilientHttpClient> logger)
+    {
+        const string ClassName = "ResilientHttpClient";
+        public async Task<T?> GetJsonAsync<T>(string uri, CancellationToken ct = default)
+        {
+            using var response = await httpClient.GetAsync(uri, HttpCompletionOption.ResponseHeadersRead, ct);
+            response.EnsureSuccessStatusCode();
+            return await response.Content.ReadFromJsonAsync<T>(ct);
+        }
+
+        public async Task<T?[]> GetManyJsonAsync<T>(IReadOnlyList<string> uris, int maxDegreeOfParallelism = 12, CancellationToken ct = default)
+        {
+            var results = new T?[uris.Count]; ;
+            await Parallel.ForEachAsync(
+                Enumerable.Range(0, uris.Count),
+                new ParallelOptions { MaxDegreeOfParallelism = maxDegreeOfParallelism, CancellationToken = ct },
+                async (index, token) =>
+                {
+                    results[index] = await GetJsonAsync<T>(uris[index], token);
+                });
+            return results;
+        }
+
+        public async Task<TResponse?> PostJsonAsync<TRequest, TResponse>(string uri, TRequest body, CancellationToken ct = default)
+        {
+            using var response = await httpClient.PostAsJsonAsync(uri, body, ct);
+            response.EnsureSuccessStatusCode();
+            return await response.Content.ReadFromJsonAsync<TResponse>(ct);
+        }
+    }
+
+    public sealed class ResilientHttpClientBuilder
+    {
+        const string ClassName = "ResilientHttpClientBuilder";
+
+        public static ResilientHttpClient BuildResilientClient()
+        {
+            var builder = Host.CreateApplicationBuilder();
+
+            builder.Services
+                .AddHttpClient<ResilientHttpClient>(client =>
+                {
+                    client.BaseAddress = new Uri("https://api.example.com");
+                    client.DefaultRequestVersion = HttpVersion.Version20;
+                    client.DefaultVersionPolicy = HttpVersionPolicy.RequestVersionOrHigher;
+                    client.Timeout = TimeSpan.FromSeconds(30);
+                })
+                .ConfigurePrimaryHttpMessageHandler(() => new SocketsHttpHandler
+                {
+                    PooledConnectionLifetime = TimeSpan.FromMinutes(5),
+                    MaxConnectionsPerServer = 100,
+                    EnableMultipleHttp2Connections = true,
+                    AutomaticDecompression = DecompressionMethods.All
+                })
+                .SetHandlerLifetime(Timeout.InfiniteTimeSpan)
+                .AddStandardResilienceHandler(res =>
+                {
+                    res.Retry.MaxRetryAttempts = 3;
+                    res.Retry.DisableForUnsafeHttpMethods();
+                });
+
+            using IHost host = builder.Build();
+            var client = host.Services.GetRequiredService<ResilientHttpClient>();
+
+            return client;
+        }
+    }
+
+}
