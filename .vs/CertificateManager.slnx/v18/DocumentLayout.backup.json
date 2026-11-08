@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\cs_repo\\CertificateManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\resilienthttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|solutionrelative:resilienthttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\certhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|solutionrelative:certhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\certificatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|solutionrelative:certificatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\sqlstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|solutionrelative:sqlstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\sqlstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|solutionrelative:sqlstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\certificatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|solutionrelative:certificatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\keyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|solutionrelative:keyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\resilienthttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|solutionrelative:resilienthttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\certhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|solutionrelative:certhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\keyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|solutionrelative:keyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\certificatemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7AFD9660-42F3-4C1F-848A-BED7C8E7B504}|CertificateManager.csproj|solutionrelative:certificatemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|d:\\cs_repo\\certificatemanager\\certificatemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28FDFDA0-96DB-437A-3E34-043B439A36AA}|CertificateManager.csproj|solutionrelative:certificatemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CertificateManager.cs",
               "DocumentMoniker": "D:\\cs_repo\\CertificateManager\\CertificateManager.cs",
               "RelativeDocumentMoniker": "CertificateManager.cs",
@@ -51,33 +51,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ResilientHttpClient.cs",
               "DocumentMoniker": "D:\\cs_repo\\CertificateManager\\ResilientHttpClient.cs",
               "RelativeDocumentMoniker": "ResilientHttpClient.cs",
               "ToolTip": "D:\\cs_repo\\CertificateManager\\ResilientHttpClient.cs",
               "RelativeToolTip": "ResilientHttpClient.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAywKAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMoAAAAAAAAAAADwv+EAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-07T20:54:09.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SqlStorage.cs",
               "DocumentMoniker": "D:\\cs_repo\\CertificateManager\\SqlStorage.cs",
               "RelativeDocumentMoniker": "SqlStorage.cs",
               "ToolTip": "D:\\cs_repo\\CertificateManager\\SqlStorage.cs",
               "RelativeToolTip": "SqlStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-07T20:58:03.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "KeyHelper.cs",
               "DocumentMoniker": "D:\\cs_repo\\CertificateManager\\KeyHelper.cs",
               "RelativeDocumentMoniker": "KeyHelper.cs",
@@ -85,18 +85,17 @@
               "RelativeToolTip": "KeyHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T20:57:29.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T20:57:29.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CertHelper.cs",
               "DocumentMoniker": "D:\\cs_repo\\CertificateManager\\CertHelper.cs",
               "RelativeDocumentMoniker": "CertHelper.cs",
               "ToolTip": "D:\\cs_repo\\CertificateManager\\CertHelper.cs",
               "RelativeToolTip": "CertHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAcwLMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-07T20:54:55.173Z",
               "EditorCaption": ""
@@ -104,15 +103,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CertificateManager",
+              "Title": "CertificateManager.csproj",
               "DocumentMoniker": "D:\\cs_repo\\CertificateManager\\CertificateManager.csproj",
               "RelativeDocumentMoniker": "CertificateManager.csproj",
               "ToolTip": "D:\\cs_repo\\CertificateManager\\CertificateManager.csproj",
               "RelativeToolTip": "CertificateManager.csproj",
               "ViewState": "AgIAAAQAAAAAAAAAAAAcwDgAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-07T20:40:31.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T20:40:31.317Z"
             }
           ]
         }
